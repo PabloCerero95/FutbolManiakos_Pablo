@@ -1,7 +1,7 @@
 ﻿	                                      PABLO JOSE CERERO MATEOS 
 
  --------------------------------------------
-										     FUTBOL MANIAKOS
+						FUTBOL MANIAKOS
               
   ![INICIO DE SESION FUTBOL MANIAKOS](https://i.ibb.co/ZRsgd18/Captura2.jpg)
         
