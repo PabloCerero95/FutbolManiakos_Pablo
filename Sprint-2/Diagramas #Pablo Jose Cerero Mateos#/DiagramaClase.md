@@ -1,9 +1,9 @@
 ﻿	                                      PABLO JOSE CERERO MATEOS 
 
  --------------------------------------------
-										     FUTBOL MANIAKOS
+						 FUTBOL MANIAKOS
 
-![enter image description here](https://i.ibb.co/k54THqf/Diagrama-Clase.png)
+![enter image description here](https://i.ibb.co/879CZjD/Diagrama-Clases1.png)
               
               -------------------------------
 ºInicioSesion: Esta clase se tratara de lo básico 								en la aplicación que es el inicio de sesión a la web, 		para que el usuario pueda disfrutar de las ventajas que 		tiene. Para ellos nos hará falta el nick del usuario y su contraseña para cuando lo escriba validarlo si esta registrado o no. También tenemos la opción de recuperar contraseña introduciendo solo el correo electrónico.
