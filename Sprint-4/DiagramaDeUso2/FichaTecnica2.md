@@ -31,16 +31,16 @@ _______________________________________________________________
 **Precondiciones:** 
 Que el moderador tenga los permisos necesarios para enviar las alertas a los usuarios solicitados
 
-Que el usuario no este baneado (¿Si esta baneado como va a recibir una alerta de un moderador si no esta activo en la pagina?)
+Que el usuario no este baneado tiemp atras
 _____________________________________________________________________________
 
 **Flujo Normal:** [1] El actor (Moderador) entrar en la sección de moderación, exclusivo solo para los moderadores
 
-[2] El actor clica en la sub-sección de enviar alertas
+[2] El moderador clica en la sub-sección de enviar alertas
 
-[3] El actor escribe la alerta que crea necesario según el nivel de la gravedad del asunto y decidirá si esa aleta sera de forma amistosa o con baneo incluido
+[3] El moderador escribe la alerta que crea necesario según el nivel de la gravedad del asunto y decidirá si esa aleta sera de forma amistosa o con baneo incluido
 
-[4] El actor clica al botón de enviar para que le llegue la alerta al usuario
+[4] El moderador clica al botón de enviar para que le llegue la alerta al usuario
 
 [5] El usuario recibe la alerta del moderador
 
@@ -51,7 +51,7 @@ _____________________________________________________________________________
 
 **Flujo Alternativo:** [5.A] El usuario no le llegar nunca la alerta porque dicho usuario ya estaba baneado de antes, asi que se le reenviara un mensaje al moderador que ese usuario ya esta baneado por X moderador y a X tiempo
 
-[6.A] El usuario no ha sido baneado porque ese usuario es el administrador de la web (¿Como vas a banear a un administrador de la web, que tiene mas permiso que tu?) se le enviara un mensaje al moderador de que dicho usuario es totalmente imposible de que sea baneado por X razones 
+[6.A] El usuario no ha sido baneado porque ese usuario es el administrador de la web, se le enviara un mensaje al moderador de que dicho usuario es totalmente imposible de que sea baneado por X razones 
 
 ______________________________________________________________________________
 
